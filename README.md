@@ -1,1 +1,3 @@
-# tangshanerzhong.github.io
+#欢迎您进入github开源页面，您可以一起和我编辑唐山二中的网页页面
+#我们需要CSS，JS，Python等语言的人才，如果您也会编程，请和我们一起！
+#现招募：人工智能交互（Python）人才
